@@ -1,0 +1,23 @@
+.square{
+	height: 200px;
+	width: 150px;
+	padding: 10px;
+	border: 2px solid #000;
+	border-radius: 10px;
+	text-align: center;
+}
+img{
+	width: 110px;
+	height: 110px;
+	border: 2px solid black;
+}
+p{
+	color:white;
+	font-size:25px;
+	font-family:cursive;
+}
+div{
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+}
